@@ -2,7 +2,7 @@ package ru.renat;
 
 public class Main {
     public static void main(String[] args) {
-        printString("Hello World");
+        printString("Hello QA");
     }
 
     public static void printString(String string){
