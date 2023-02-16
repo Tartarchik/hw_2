@@ -2,6 +2,11 @@ package ru.renat;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        printString("Hello World");
     }
+
+    public static void printString(String string){
+        System.out.println(string);
+    }
+
 }
